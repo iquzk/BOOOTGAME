@@ -1,5 +1,5 @@
 const Discord = require("discord.js");
-const client = new Discord.Client();
+const client = new Discord.Client(eR2_6h6bfGBFZXF-5T5o7EXqKp4XVvyv);
 var prefix = "#";
 client.on('message', message => {
     if (message.content == "#سرعه") {
